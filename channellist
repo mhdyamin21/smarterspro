@@ -85,3 +85,54 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000120/1024.m3u8
 #EXTINF:-1 group-title="TV FILM" tvg-logo="https://i.imgur.com/gqCgagp.jpeg" ,ROCK ENTERTAINMENT
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000110/1024.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ONVgL5a.png" group-title="TV FILM",GALAXY PREMIUM
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000126/1024.m3u8
+
+#EXTINF:-1 group-title="TV FILM" tvg-logo="https://i.imgur.com/101onyA.png", GALAXY
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000117/1024.m3u8
+
+#EXTINF:-1 tvg-id="HITSMovies.sg" tvg-name="HITSMovies.sg" tvg-chno="HITSMovies.sg" group-title="TV FILM" tvg-logo="https://i.imgur.com/jfSOSEP.png", HITS MOVIES
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000139/1024.m3u8
+
+---------------------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="TV COBA" tvg-logo="https://i.imgur.com/gqCgagp.jpeg" ,COBA 1
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
+
+#EXTINF:-1 group-title="TV COBA" tvg-logo="https://i.imgur.com/gqCgagp.jpeg" ,COBA 2
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000002/1024.m3u8
+
+#EXTINF:-1 group-title="TV COBA" tvg-logo="https://i.imgur.com/gqCgagp.jpeg" ,COBA 3
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000003/1024.m3u8
+
+#EXTINF:-1 group-title="TV COBA" tvg-logo="https://i.imgur.com/gqCgagp.jpeg" ,COBA 4
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000005/1024.m3u8
+
+#EXTINF:-1 group-title="TV COBA" tvg-logo="https://i.imgur.com/gqCgagp.jpeg" ,COBA 5
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000007/1024.m3u8
+
+#EXTINF:-1 group-title="TV COBA" tvg-logo="https://i.imgur.com/gqCgagp.jpeg" ,COBA 6
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000010/1024.m3u8
+
+#EXTINF:-1 group-title="TV COBA" tvg-logo="https://i.imgur.com/gqCgagp.jpeg" ,COBA 7
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000011/1024.m3u8
+
+#EXTINF:-1 group-title="TV COBA" tvg-logo="https://i.imgur.com/gqCgagp.jpeg" ,COBA 8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000012/1024.m3u8
+
+#EXTINF:-1 group-title="TV COBA" tvg-logo="https://i.imgur.com/gqCgagp.jpeg" ,COBA 9
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000014/1024.m3u8
+
+#EXTINF:-1 group-title="TV COBA" tvg-logo="https://i.imgur.com/gqCgagp.jpeg" ,COBA 10
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000016/1024.m3u8
+
+#EXTINF:-1 group-title="TV COBA" tvg-logo="https://i.imgur.com/gqCgagp.jpeg" ,COBA 11
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000017/1024.m3u8
+
+#EXTINF:-1 group-title="TV COBA" tvg-logo="https://i.imgur.com/gqCgagp.jpeg" ,COBA 12
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000019/1024.m3u8
+
+#EXTINF:-1 group-title="TV COBA" tvg-logo="https://i.imgur.com/gqCgagp.jpeg" ,COBA 13
+http://202.80.222.20/cdn/iptv/Tvod/001/channel20000120/1024.m3u8
+
+
