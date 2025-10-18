@@ -156,32 +156,59 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000029/1024.m3u8
 #EXTINF:-1 group-title="TV COBA" ,CNA M CHANNEL???
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000030/1024.m3u8
 
-#EXTINF:-1 group-title="TV COBA" ,COBA 1
+#EXTINF:-1 group-title="TV COBA" ,euro news
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000031/1024.m3u8
 
-#EXTINF:-1 group-title="TV COBA" ,COBA 2
+#EXTINF:-1 group-title="TV COBA" ,CELESTIAL MOVIES INDO
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000032/1024.m3u8
 
-#EXTINF:-1 group-title="TV COBA" ,COBA 3
+#EXTINF:-1 group-title="TV COBA" ,COBA 3 GAGAL
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000033/1024.m3u8
 
-#EXTINF:-1 group-title="TV COBA" ,COBA 4
+#EXTINF:-1 group-title="TV COBA" , SIARAN ??? HISTORY
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000034/1024.m3u8
 
-#EXTINF:-1 group-title="TV COBA" ,COBA 5
+#EXTINF:-1 group-title="TV COBA" ,CGTN DOCUMENTARY
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000035/1024.m3u8
 
-#EXTINF:-1 group-title="TV COBA" ,COBA 6
+#EXTINF:-1 group-title="TV COBA" ,COBA 6 (GAGAL)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000036/1024.m3u8
 
-#EXTINF:-1 group-title="TV COBA" ,COBA 7
+#EXTINF:-1 group-title="TV COBA" ,KIX 
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000037/1024.m3u8
 
-#EXTINF:-1 group-title="TV COBA" ,COBA 8
+#EXTINF:-1 group-title="TV COBA" ,FOX NEWS
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000038/1024.m3u8
 
-#EXTINF:-1 group-title="TV COBA" ,COBA 9
+#EXTINF:-1 group-title="TV COBA" ,JOHANNESBURG
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000039/1024.m3u8
 
-#EXTINF:-1 group-title="TV COBA" ,COBA 10
+#EXTINF:-1 group-title="TV COBA" ,NHK JAPAN
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000040/1024.m3u8
+
+#EXTINF:-1 group-title="TV COBA" ,COBA 1
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000041/1024.m3u8
+
+#EXTINF:-1 group-title="TV COBA" ,COBA 3
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000043/1024.m3u8
+
+#EXTINF:-1 group-title="TV COBA" ,COBA 4
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000044/1024.m3u8
+
+#EXTINF:-1 group-title="TV COBA" ,COBA 5
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
+
+#EXTINF:-1 group-title="TV COBA" ,COBA 6
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000046/1024.m3u8
+
+#EXTINF:-1 group-title="TV COBA" ,COBA 7
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000047/1024.m3u8
+
+#EXTINF:-1 group-title="TV COBA" ,COBA 8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000048/1024.m3u8
+
+#EXTINF:-1 group-title="TV COBA" ,COBA 9
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000049/1024.m3u8
+
+#EXTINF:-1 group-title="TV COBA" ,COBA 10
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000050/1024.m3u8
