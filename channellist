@@ -416,65 +416,122 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000120/1024.m3u8
 #EXTINF:-1 group-title="TV COBA LAGI" , COBA 20 STUDIO UNIVERSAL
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000121/1024.m3u8
 
-#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 1
+#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 1 ANIMAX
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000122/1024.m3u8
 
-#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 2
+#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 2 ONE
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000123/1024.m3u8
 
-#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 3
+#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 3 SPORTSTARS2
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000124/1024.m3u8
 
-#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 4
+#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 4 MOONBUG
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000125/1024.m3u8
 
-#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 5
+#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 5 GALAXY PREMIUM
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000126/1024.m3u8
 
-#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 6
+#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 6 LOVE NATURE
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000127/1024.m3u8
 
-#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 7
+#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 7 INEWS
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000128/1024.m3u8
 
-#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 8
+#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 8 MUSIC TV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000129/1024.m3u8
 
-#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 9
+#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 9 VISION PRIMA
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000130/1024.m3u8
 
-#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 10
+#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 10 TRT WORLD
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000131/1024.m3u8
 
-#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 11
+#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 11 GLOBAL TREKK
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000132/1024.m3u8
 
-#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 12
+#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 12 IM?
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000133/1024.m3u8
 
-#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 13
+#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 13 MUSIC TV?
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000134/1024.m3u8
 
-#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 14
+#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 14 KIDS TV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000135/1024.m3u8
 
-#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 15
+#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 15 MDTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000136/1024.m3u8
 
-#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 16
+#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 16 ERROR
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000137/1024.m3u8
 
-#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 17
+#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 17 SPOTTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
 
-#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 18
+#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 18 HITS MOVIE
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000139/1024.m3u8
 
-#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 19
+#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 19 ERROR
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000140/1024.m3u8
 
-#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 20
+#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 20 TVN HIST?
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000141/1024.m3u8
 
-#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 21
+#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 21 TVN MOVIES
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000142/1024.m3u8
+
+#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 1
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000143/1024.m3u8
+
+#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 2
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000144/1024.m3u8
+
+#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 3
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000145/1024.m3u8
+
+#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 4
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000146/1024.m3u8
+
+#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 5
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000147/1024.m3u8
+
+#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 6
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000148/1024.m3u8
+
+#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 7
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000149/1024.m3u8
+
+#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000150/1024.m3u8
+
+#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 9
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000151/1024.m3u8
+
+#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 10
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000152/1024.m3u8
+
+#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 11
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000153/1024.m3u8
+
+#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 12
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000154/1024.m3u8
+
+#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 13
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000155/1024.m3u8
+
+#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 14
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000156/1024.m3u8
+
+#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 15
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000157/1024.m3u8
+
+#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 16
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000158/1024.m3u8
+
+#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 17
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000159/1024.m3u8
+
+#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 18
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
+
+#EXTINF:-1 group-title="TV COBA LAGI" , COBAS 19
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000161/1024.m3u8
